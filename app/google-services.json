@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973607046519",
+    "project_id": "assita-61eb0",
+    "storage_bucket": "assita-61eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973607046519:android:5daa1d6ef7595d70bee572",
+        "android_client_info": {
+          "package_name": "com.example.assitant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973607046519-1rskd2pq598nc7ll4o26n8qthjdetot2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHhoK7K45EfqFuJLcdsgqdSyut1y-C1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973607046519-1rskd2pq598nc7ll4o26n8qthjdetot2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
